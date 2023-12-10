@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/pycharm_project/mlops/mlruns/0/27f9461f8b4947b592c96513cd9732d5/artifacts
+end_time: 1701929790508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27f9461f8b4947b592c96513cd9732d5
+run_name: powerful-penguin-263
+run_uuid: 27f9461f8b4947b592c96513cd9732d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701929758075
+status: 3
+tags: []
+user_id: Abdur rahim nishad

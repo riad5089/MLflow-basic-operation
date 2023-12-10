@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/pycharm_project/mlops/mlruns/0/9f2cea27b4014f338089847625addac2/artifacts
+end_time: 1701843054148
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f2cea27b4014f338089847625addac2
+run_name: nervous-toad-318
+run_uuid: 9f2cea27b4014f338089847625addac2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701843034173
+status: 3
+tags: []
+user_id: Abdur rahim nishad

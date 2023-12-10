@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/pycharm_project/mlops/mlruns/0/624e68f6ae784a7b82624f93ce158e0b/artifacts
+end_time: 1701929105591
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 624e68f6ae784a7b82624f93ce158e0b
+run_name: gregarious-flea-817
+run_uuid: 624e68f6ae784a7b82624f93ce158e0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701929085379
+status: 3
+tags: []
+user_id: Abdur rahim nishad
